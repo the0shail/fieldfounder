@@ -1,0 +1,5 @@
+.idea/
+venv/
+dataset/x_test/*
+dataset/x_train/*
+model/*
